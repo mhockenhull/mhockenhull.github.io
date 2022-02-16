@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Michael Hockenhull"
-  avatar           : "profile.png"
+  avatar           : "michael-dark-2-2000x1000 jpg-01.jpg"
   bio              : "Data humanist, because why not."
   location         : "Copenhagen"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "IT University of Copenhagen"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
